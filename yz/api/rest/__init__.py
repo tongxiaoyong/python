@@ -1,0 +1,4 @@
+from yz.api.rest.TradeFullinfoGetRequest import TradeFullinfoGetRequest
+from yz.api.rest.TradesSoldGetRequest import TradesSoldGetRequest
+from yz.api.rest.TradesSoldIncrementGetRequest import TradesSoldIncrementGetRequest
+from yz.api.rest.UsersWeixFollowsGetRequest import UsersWeixFollowsGetRequest
